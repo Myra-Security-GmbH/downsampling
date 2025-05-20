@@ -1,4 +1,4 @@
-module github.com/haoel/downsampling
+module github.com/Myra-Security-GmbH/downsampling
 
 go 1.16
 
